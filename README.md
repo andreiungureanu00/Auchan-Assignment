@@ -71,5 +71,6 @@ docker-compose up
 
 # Bug
 
-* I modified the program with the bug and renamed it as bug.js file
+* I modified the program with the bug and named it as bug.js file
 * I added comments in the code to highlight the issues
+* The bug appears when there are issues on file read/write and I tried to fix them using proper callback params
